@@ -1,16 +1,13 @@
-### Hi there 👋
+#### 田中 開のGit Hubにご訪問頂きありがとうございます!
 
-<!--
-**HaruTanaka828/HaruTanaka828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### プログラミングスクールを卒業し、ただいまエンジニアを目指し転職活動中です。
 
-Here are some ideas to get you started:
+#### ここではプログラミングスクールでの課題をメインにPUSHしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 今後はポートフォリオの更新、必要に応じて新たなリポジトリをPUSHし、草を生やしていきます。
+
+#### なお、2020/9月、10月に関してはメールアドレスとの連携ができていなかったようで、PUSHしても草が生えない現象が発生しておりました。
+
+#### よろしくお願いします！！
+
+
